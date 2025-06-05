@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Blaise 👋
 
-<!--
-**Blaise-bf/Blaise-bf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍⚕️ Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Undergraduate in Clinical Medicine**
+- **Master’s in Epidemiology**
+- **MSc in Statistics and Data Science**
+
+## 💡 Mission
+
+**Leverage data knowledge for better health outcomes.**
+
+## 🛠️ Skills
+
+- **Programming:** Python, R, JavaScript (data visualization)
+- **Data Science:** Statistics, Epidemiology, Data Analysis, Machine Learning, Deep Learning
+- **Visualization:** Experienced in building insightful data visualizations
+
+## 🚀 Featured Project
+
+### Data Visualization Project (JavaScript)
+A project focused on turning complex data into actionable, interactive visuals to support better decision-making in health and science.
+
+<!-- You can add a link or brief description here if you wish! -->
+
+## 🌱 What I’m working on
+
+- Applying advanced analytics to solve real-world health challenges
+- Exploring machine learning and deep learning in public health
+
+---
+
+Let's connect and collaborate to make data count for a healthier world!
+
